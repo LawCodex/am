@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ԴԱՏԱԿԱՆ ՕՐԵՆՍԳԻՐՔ ՀՀ ՍԱՀՄԱՆԱԴՐԱԿԱՆ ՕՐԵՆՔԸ"
-identifier: ""
+identifier: "ՀՕ-95-Ն"
 arlis_id: 227243
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

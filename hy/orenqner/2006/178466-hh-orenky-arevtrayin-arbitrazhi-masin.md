@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՌԵՎՏՐԱՅԻՆ ԱՐԲԻՏՐԱԺԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-55-Ն"
 arlis_id: 178466
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍՏԱՆԴԱՐՏԱՑՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-21-Ն"
 arlis_id: 170578
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

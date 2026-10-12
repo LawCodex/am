@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԽԱՂՈՂԻ ՀՈՒՄՔՈՎ ՈԳԵԼԻՑ ԽՄԻՉՔՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-135-Ն"
 arlis_id: 103048
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ 2015 ԹՎԱԿԱՆԻ ՊԵՏԱԿԱՆ ԲՅՈՒՋԵԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-192-Ն"
 arlis_id: 103806
 type: act
 document_kind: "Ինկորպորացիա"

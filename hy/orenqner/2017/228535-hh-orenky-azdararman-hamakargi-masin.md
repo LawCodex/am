@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱԶԴԱՐԱՐՄԱՆ ՀԱՄԱԿԱՐԳԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-97-Ն"
 arlis_id: 228535
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ԱԺ ԱՇԽԱՏԱԿԱԶՄՈՒՄ ՊԵՏԱԿԱՆ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-158-Ն"
 arlis_id: 229125
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

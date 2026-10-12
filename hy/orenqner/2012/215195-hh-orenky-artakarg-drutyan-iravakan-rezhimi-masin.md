@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՐՏԱԿԱՐԳ ԴՐՈՒԹՅԱՆ ԻՐԱՎԱԿԱՆ ՌԵԺԻՄԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-106-Ն"
 arlis_id: 215195
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

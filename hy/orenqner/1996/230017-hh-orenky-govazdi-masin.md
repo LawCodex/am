@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՈՎԱԶԴԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-55"
 arlis_id: 230017
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

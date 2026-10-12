@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ 2000 ԹՎԱԿԱՆԻ ՊԵՏԱԿԱՆ ԲՅՈՒՋԵԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-37"
 arlis_id: 691
 type: act
 document_kind: "Հիմնական ակտ"

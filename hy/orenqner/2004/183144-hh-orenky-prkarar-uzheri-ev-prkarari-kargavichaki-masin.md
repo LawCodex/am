@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՓՐԿԱՐԱՐ ՈՒԺԵՐԻ ԵՎ ՓՐԿԱՐԱՐԻ ԿԱՐԳԱՎԻՃԱԿԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-85-Ն"
 arlis_id: 183144
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

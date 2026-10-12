@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՐԴԱՐԱԴԱՏՈՒԹՅԱՆ ԱԿԱԴԵՄԻԱՅԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-50-Ն"
 arlis_id: 216340
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

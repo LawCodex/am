@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՌԱԶՄԱԿԱՆ ԴՐՈՒԹՅԱՆ ԻՐԱՎԱԿԱՆ ՌԵԺԻՄԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-258-Ն"
 arlis_id: 215194
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

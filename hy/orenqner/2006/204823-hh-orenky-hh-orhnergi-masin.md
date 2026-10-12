@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՕՐՀՆԵՐԳԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-252-Ն"
 arlis_id: 204823
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

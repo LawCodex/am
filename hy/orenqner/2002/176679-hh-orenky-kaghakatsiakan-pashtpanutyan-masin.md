@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՔԱՂԱՔԱՑԻԱԿԱՆ ՊԱՇՏՊԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-309"
 arlis_id: 176679
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

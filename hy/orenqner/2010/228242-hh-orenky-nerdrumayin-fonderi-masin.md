@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՆԵՐԴՐՈՒՄԱՅԻՆ ՖՈՆԴԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-245-Ն"
 arlis_id: 228242
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

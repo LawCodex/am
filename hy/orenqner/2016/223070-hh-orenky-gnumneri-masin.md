@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՆՈՒՄՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-21-Ն"
 arlis_id: 223070
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

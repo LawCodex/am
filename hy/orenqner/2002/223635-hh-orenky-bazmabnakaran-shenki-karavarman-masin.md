@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲԱԶՄԱԲՆԱԿԱՐԱՆ ՇԵՆՔԻ ԿԱՌԱՎԱՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-334"
 arlis_id: 223635
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

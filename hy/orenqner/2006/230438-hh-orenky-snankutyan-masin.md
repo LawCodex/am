@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍՆԱՆԿՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-51-Ն"
 arlis_id: 230438
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲՈՒՍԱՍԱՆԻՏԱՐԻԱՅԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-140-Ն"
 arlis_id: 228164
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

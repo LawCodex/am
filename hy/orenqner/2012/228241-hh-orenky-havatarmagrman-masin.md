@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՎԱՏԱՐՄԱԳՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-20-Ն"
 arlis_id: 228241
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

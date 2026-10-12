@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱԶԱՏ ՏՆՏԵՍԱԿԱՆ ԳՈՏԻՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-193-Ն"
 arlis_id: 194986
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

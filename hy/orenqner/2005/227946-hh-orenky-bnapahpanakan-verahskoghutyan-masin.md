@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲՆԱՊԱՀՊԱՆԱԿԱՆ ՎԵՐԱՀՍԿՈՂՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-82-Ն"
 arlis_id: 227946
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ԿԵՆՏՐՈՆԱԿԱՆ ԲԱՆԿԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-69"
 arlis_id: 209966
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

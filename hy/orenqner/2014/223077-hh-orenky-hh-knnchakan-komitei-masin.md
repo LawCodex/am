@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՔՆՆՉԱԿԱՆ ԿՈՄԻՏԵԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-25-Ն"
 arlis_id: 223077
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

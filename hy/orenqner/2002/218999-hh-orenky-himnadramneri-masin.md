@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԻՄՆԱԴՐԱՄՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-516-Ն"
 arlis_id: 218999
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

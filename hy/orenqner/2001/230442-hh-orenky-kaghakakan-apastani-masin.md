@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՔԱՂԱՔԱԿԱՆ ԱՊԱՍՏԱՆԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-229"
 arlis_id: 230442
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

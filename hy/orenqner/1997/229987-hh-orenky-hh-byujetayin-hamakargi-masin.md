@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ԲՅՈՒՋԵՏԱՅԻՆ ՀԱՄԱԿԱՐԳԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-137"
 arlis_id: 229987
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

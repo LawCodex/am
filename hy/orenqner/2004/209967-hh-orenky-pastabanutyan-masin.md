@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՓԱՍՏԱԲԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-29-Ն"
 arlis_id: 209967
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

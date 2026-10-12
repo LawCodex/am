@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱԶԳԱՅԻՆ ԺՈՂՈՎԻ ԿԱՆՈՆԱԿԱՐԳ"
-identifier: ""
+identifier: "ՀՕ-308"
 arlis_id: 113054
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

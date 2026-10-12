@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԵԿԱՄՏԱՅԻՆ ՀԱՐԿԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-246-Ն"
 arlis_id: 158682
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

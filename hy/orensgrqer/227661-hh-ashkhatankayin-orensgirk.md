@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ԱՇԽԱՏԱՆՔԱՅԻՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-124-Ն"
 arlis_id: 227661
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

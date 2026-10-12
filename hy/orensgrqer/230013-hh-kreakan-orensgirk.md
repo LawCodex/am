@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՔՐԵԱԿԱՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-199-Ն"
 arlis_id: 230013
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

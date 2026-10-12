@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՅՐԵՆԱԿԱՆ ՄԵԾ ՊԱՏԵՐԱԶՄԻ ՎԵՏԵՐԱՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-267"
 arlis_id: 218663
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

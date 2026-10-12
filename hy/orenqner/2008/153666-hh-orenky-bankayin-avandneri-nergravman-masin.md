@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲԱՆԿԱՅԻՆ ԱՎԱՆԴՆԵՐԻ ՆԵՐԳՐԱՎՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-124-Ն"
 arlis_id: 153666
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

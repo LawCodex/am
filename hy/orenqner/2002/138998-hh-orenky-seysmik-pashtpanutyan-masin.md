@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍԵՅՍՄԻԿ ՊԱՇՏՊԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-376-Ն"
 arlis_id: 138998
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

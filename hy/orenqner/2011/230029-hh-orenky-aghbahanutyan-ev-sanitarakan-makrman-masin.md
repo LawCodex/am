@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՂԲԱՀԱՆՈՒԹՅԱՆ ԵՎ ՍԱՆԻՏԱՐԱԿԱՆ ՄԱՔՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-237-Ն"
 arlis_id: 230029
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԿՈՌՈՒՊՑԻԱՅԻ ԿԱՆԽԱՐԳԵԼՄԱՆ ՀԱՆՁՆԱԺՈՂՈՎԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-96-Ն"
 arlis_id: 228532
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

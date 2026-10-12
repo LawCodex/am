@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՈՒՅՔԱՀԱՐԿԻ ԵՎ ՀՈՂԻ ՀԱՐԿԻ ԳԾՈՎ ԱՌԱՋԱՑԱԾ ԱՊԱՌՔՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-93-Ն"
 arlis_id: 75201
 type: act
 document_kind: "Հիմնական ակտ"

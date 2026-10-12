@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՆՐԱՅԻՆ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՀԱՄԱՐԱՆԻՇԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-288-Ն"
 arlis_id: 144992
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

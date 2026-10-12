@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԿՐԹՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-297"
 arlis_id: 227817
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

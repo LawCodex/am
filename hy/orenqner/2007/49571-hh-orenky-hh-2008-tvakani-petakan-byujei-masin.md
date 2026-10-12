@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ 2008 ԹՎԱԿԱՆԻ ՊԵՏԱԿԱՆ ԲՅՈՒՋԵԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-257-Ն"
 arlis_id: 49571
 type: act
 document_kind: "Ինկորպորացիա"

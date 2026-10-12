@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՊՐԱՆՔԱՅԻՆ ԲՈՐՍԱՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-78"
 arlis_id: 31933
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

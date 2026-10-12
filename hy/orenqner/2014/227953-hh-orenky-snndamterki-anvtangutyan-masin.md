@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍՆՆԴԱՄԹԵՐՔԻ ԱՆՎՏԱՆԳՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-135-Ն"
 arlis_id: 227953
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԹԱՓՈՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-159-Ն"
 arlis_id: 230015
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

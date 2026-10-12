@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԱՐԵՆԱՅԻՆ ԱՆՎՏԱՆԳՈՒԹՅԱՆ ԱՊԱՀՈՎՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-339"
 arlis_id: 1113
 type: act
 document_kind: "Հիմնական ակտ"

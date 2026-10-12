@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՓԱԽՍՏԱԿԱՆՆԵՐԻ ԵՎ ԱՊԱՍՏԱՆԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-211-Ն"
 arlis_id: 230436
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

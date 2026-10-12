@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՎՏՈՄՈԲԻԼԱՅԻՆ ՃԱՆԱՊԱՐՀՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-240-Ն"
 arlis_id: 195012
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

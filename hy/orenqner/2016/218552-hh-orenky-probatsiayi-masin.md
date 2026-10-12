@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊՐՈԲԱՑԻԱՅԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-48-Ն"
 arlis_id: 218552
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ 1997 ԹՎԱԿԱՆԻ ՊԵՏԱԿԱՆ ԲՅՈՒՋԵԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-104"
 arlis_id: 77288
 type: act
 document_kind: "Ինկորպորացիա"

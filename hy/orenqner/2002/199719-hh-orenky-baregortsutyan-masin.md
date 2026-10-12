@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲԱՐԵԳՈՐԾՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-424-Ն"
 arlis_id: 199719
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

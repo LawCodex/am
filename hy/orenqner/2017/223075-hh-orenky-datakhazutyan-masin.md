@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԴԱՏԱԽԱԶՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-198-Ն"
 arlis_id: 223075
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

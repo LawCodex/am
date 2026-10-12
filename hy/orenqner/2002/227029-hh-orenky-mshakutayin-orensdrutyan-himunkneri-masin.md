@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՄՇԱԿՈՒԹԱՅԻՆ ՕՐԵՆՍԴՐՈՒԹՅԱՆ ՀԻՄՈՒՆՔՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-465-Ն"
 arlis_id: 227029
 type: act
 document_kind: "Ինկորպորացիա"

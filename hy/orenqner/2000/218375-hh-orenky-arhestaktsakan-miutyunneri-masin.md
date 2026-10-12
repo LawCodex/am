@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՐՀԵՍՏԱԿՑԱԿԱՆ ՄԻՈՒԹՅՈՒՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-135"
 arlis_id: 218375
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՉԱՓՈՒՄՆԵՐԻ ՄԻԱՍՆԱԿԱՆՈՒԹՅԱՆ ԱՊԱՀՈՎՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-22-Ն"
 arlis_id: 217371
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

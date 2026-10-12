@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՏԵՂԱԿԱՆ ՏՈՒՐՔԵՐԻ ԵՎ ՎՃԱՐՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-185"
 arlis_id: 229981
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

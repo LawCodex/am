@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՖԻՆԱՆՍԱԿԱՆ ՀԱՄԱՀԱՐԹԵՑՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-202-Ն"
 arlis_id: 186174
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

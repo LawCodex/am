@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՌԵՎՏՐԱԱՐԴՅՈՒՆԱԲԵՐԱԿԱՆ ՊԱԼԱՏՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-250"
 arlis_id: 175719
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

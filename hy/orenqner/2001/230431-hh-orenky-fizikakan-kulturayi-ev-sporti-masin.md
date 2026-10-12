@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՖԻԶԻԿԱԿԱՆ ԿՈՒԼՏՈՒՐԱՅԻ ԵՎ ՍՊՈՐՏԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-196"
 arlis_id: 230431
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՌԱԶՄԱԿԱՆ ՈՍՏԻԿԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-13-Ն"
 arlis_id: 215151
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

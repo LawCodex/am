@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲԱՆԿԱՅԻՆ ԳԱՂՏՆԻՔԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-80"
 arlis_id: 224828
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

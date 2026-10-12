@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՋՐԻ ԱԶԳԱՅԻՆ ԾՐԱԳՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-232-Ն"
 arlis_id: 221442
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

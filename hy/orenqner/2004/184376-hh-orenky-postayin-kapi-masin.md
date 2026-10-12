@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՓՈՍՏԱՅԻՆ ԿԱՊԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-46-Ն"
 arlis_id: 184376
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

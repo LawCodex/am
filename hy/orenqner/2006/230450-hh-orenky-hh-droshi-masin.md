@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ԴՐՈՇԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-149-Ն"
 arlis_id: 230450
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

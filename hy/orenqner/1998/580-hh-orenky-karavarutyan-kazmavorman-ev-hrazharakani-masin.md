@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԿԱՌԱՎԱՐՈՒԹՅԱՆ ԿԱԶՄԱՎՈՐՄԱՆ ԵՎ ՀՐԱԺԱՐԱԿԱՆԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-256"
 arlis_id: 580
 type: act
 document_kind: "Հիմնական ակտ"

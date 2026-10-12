@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՐԿԱՅԻՆ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-407-Ն"
 arlis_id: 229145
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

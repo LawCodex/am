@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՈՍՏԻԿԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-177"
 arlis_id: 230016
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

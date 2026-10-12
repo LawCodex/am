@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ 2010 ԹՎԱԿԱՆԻ ՊԵՏԱԿԱՆ ԲՅՈՒՋԵԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-225-Ն"
 arlis_id: 65768
 type: act
 document_kind: "Ինկորպորացիա"

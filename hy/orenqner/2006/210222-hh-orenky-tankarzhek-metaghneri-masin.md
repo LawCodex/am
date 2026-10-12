@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԹԱՆԿԱՐԺԵՔ ՄԵՏԱՂՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-83-Ն"
 arlis_id: 210222
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

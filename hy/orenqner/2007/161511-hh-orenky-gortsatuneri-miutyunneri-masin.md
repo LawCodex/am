@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՈՐԾԱՏՈՒՆԵՐԻ ՄԻՈՒԹՅՈՒՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-115-Ն"
 arlis_id: 161511
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲՆՈՒԹՅԱՆ ՀԱՏՈՒԿ ՊԱՀՊԱՆՎՈՂ ՏԱՐԱԾՔՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-211-Ն"
 arlis_id: 227964
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

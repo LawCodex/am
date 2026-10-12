@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՐԿԱԴԻՐ ԿԱՏԱՐՈՒՄՆ ԱՊԱՀՈՎՈՂ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-40-Ն"
 arlis_id: 218830
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

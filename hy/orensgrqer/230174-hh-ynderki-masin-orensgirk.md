@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ԸՆԴԵՐՔԻ ՄԱՍԻՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-280-Ն"
 arlis_id: 230174
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

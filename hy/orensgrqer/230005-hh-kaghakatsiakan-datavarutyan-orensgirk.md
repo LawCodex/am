@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՔԱՂԱՔԱՑԻԱԿԱՆ ԴԱՏԱՎԱՐՈՒԹՅԱՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-110-Ն"
 arlis_id: 230005
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

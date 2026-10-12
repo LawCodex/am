@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԵՏԱԿԱՆ ՊԱՐՏՔԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-78-Ն"
 arlis_id: 219258
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

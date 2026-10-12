@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՐԺԵԹՂԹԵՐԻ ՇՈՒԿԱՅԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-195-Ն"
 arlis_id: 224805
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

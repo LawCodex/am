@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԶԱՆԳՎԱԾԱՅԻՆ ԼՐԱՏՎՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-14-Ն"
 arlis_id: 230437
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

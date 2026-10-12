@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՂԵՏԻ ԳՈՏՈՒ ՎԵՐԱԿԱՆԳՆՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-95"
 arlis_id: 43884
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

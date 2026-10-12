@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՀԱՐԿԱՅԻՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-165-Ն"
 arlis_id: 230455
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

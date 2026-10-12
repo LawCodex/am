@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ԶԻՆԱՆՇԱՆԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-148-Ն"
 arlis_id: 215196
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

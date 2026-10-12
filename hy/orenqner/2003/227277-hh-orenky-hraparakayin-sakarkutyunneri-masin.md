@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՐԱՊԱՐԱԿԱՅԻՆ ՍԱԿԱՐԿՈՒԹՅՈՒՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-15-Ն"
 arlis_id: 227277
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ԱԶԳԱՅԻՆ ԺՈՂՈՎԻ ԿԱՆՈՆԱԿԱՐԳ ՍԱՀՄԱՆԱԴՐԱԿԱՆ ՕՐԵՆՔԸ"
-identifier: ""
+identifier: "ՀՕ-9-Ն"
 arlis_id: 228444
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՍՆԱՆԿՈՒԹՅԱՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-252-Ն"
 arlis_id: 230439
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԴԻՎԱՆԱԳԻՏԱԿԱՆ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-249"
 arlis_id: 230451
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

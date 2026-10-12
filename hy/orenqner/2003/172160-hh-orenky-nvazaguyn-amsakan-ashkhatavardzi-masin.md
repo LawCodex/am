@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՆՎԱԶԱԳՈՒՅՆ ԱՄՍԱԿԱՆ ԱՇԽԱՏԱՎԱՐՁԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-66-Ն"
 arlis_id: 172160
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

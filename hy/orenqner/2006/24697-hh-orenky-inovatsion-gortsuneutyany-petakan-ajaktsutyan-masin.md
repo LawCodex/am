@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԻՆՈՎԱՑԻՈՆ ԳՈՐԾՈՒՆԵՈՒԹՅԱՆԸ ՊԵՏԱԿԱՆ ԱՋԱԿՑՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-63-Ն"
 arlis_id: 24697
 type: act
 document_kind: "Հիմնական ակտ"

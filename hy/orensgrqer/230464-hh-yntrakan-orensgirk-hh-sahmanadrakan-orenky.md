@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ԸՆՏՐԱԿԱՆ ՕՐԵՆՍԳԻՐՔ ՀՀ ՍԱՀՄԱՆԱԴՐԱԿԱՆ ՕՐԵՆՔԸ"
-identifier: ""
+identifier: "ՀՕ-54-Ն"
 arlis_id: 230464
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

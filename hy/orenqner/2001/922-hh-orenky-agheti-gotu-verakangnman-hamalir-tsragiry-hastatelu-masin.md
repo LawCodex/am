@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՂԵՏԻ ԳՈՏՈՒ ՎԵՐԱԿԱՆԳՆՄԱՆ ՀԱՄԱԼԻՐ ԾՐԱԳԻՐԸ ՀԱՍՏԱՏԵԼՈՒ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-203"
 arlis_id: 922
 type: act
 document_kind: "Հիմնական ակտ"

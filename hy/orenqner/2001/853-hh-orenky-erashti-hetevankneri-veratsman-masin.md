@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԵՐԱՇՏԻ ՀԵՏԵՎԱՆՔՆԵՐԻ ՎԵՐԱՑՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-161"
 arlis_id: 853
 type: act
 document_kind: "Հիմնական ակտ"

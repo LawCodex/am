@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԵՐԿԱԹՈՒՂԱՅԻՆ ՏՐԱՆՍՊՈՐՏԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-293-Ն"
 arlis_id: 190388
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

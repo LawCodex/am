@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԵՏԱԿԱՆ ՍՈՒՐՀԱՆԴԱԿԱՅԻՆ ԿԱՊԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-134-Ն"
 arlis_id: 175863
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

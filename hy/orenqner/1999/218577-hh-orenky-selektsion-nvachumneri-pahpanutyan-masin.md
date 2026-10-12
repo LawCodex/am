@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍԵԼԵԿՑԻՈՆ ՆՎԱՃՈՒՄՆԵՐԻ ՊԱՀՊԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-23"
 arlis_id: 218577
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

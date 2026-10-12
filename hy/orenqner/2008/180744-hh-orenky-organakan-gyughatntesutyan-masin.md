@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՕՐԳԱՆԱԿԱՆ ԳՅՈՒՂԱՏՆՏԵՍՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-23-Ն"
 arlis_id: 180744
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

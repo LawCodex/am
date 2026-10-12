@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲՆԱԿՉՈՒԹՅԱՆ ԲԺՇԿԱԿԱՆ ՕԳՆՈՒԹՅԱՆ ԵՎ ՍՊԱՍԱՐԿՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-42"
 arlis_id: 225396
 type: act
 document_kind: "Ինկորպորացիա"

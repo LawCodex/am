@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՆԱՍՆԱԲՈՒԺՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-137-Ն"
 arlis_id: 224018
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

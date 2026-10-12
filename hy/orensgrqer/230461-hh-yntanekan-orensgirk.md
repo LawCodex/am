@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ԸՆՏԱՆԵԿԱՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-123-Ն"
 arlis_id: 230461
 type: code
 document_kind: "Ինկորպորացիա"

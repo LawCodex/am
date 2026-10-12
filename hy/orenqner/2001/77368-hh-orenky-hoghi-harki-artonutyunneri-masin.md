@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՈՂԻ ՀԱՐԿԻ ԱՐՏՈՆՈՒԹՅՈՒՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-162"
 arlis_id: 77368
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԵՏԱԿԱՆ ԿԵՆՍԱԹՈՇԱԿՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-243-Ն"
 arlis_id: 230043
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

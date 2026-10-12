@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԷԿՈԼՈԳԻԱԿԱՆ ԿՐԹՈՒԹՅԱՆ ԵՎ ԴԱՍՏԻԱՐԱԿՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-264"
 arlis_id: 220901
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

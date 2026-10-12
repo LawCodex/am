@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՎՃԱՐՄԱՆ ՀԱՆՁՆԱՐԱՐԱԿԱՆՈՎ ՄԻՋՈՑՆԵՐԻ ՓՈԽԱՆՑՈՒՄՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-100"
 arlis_id: 373
 type: act
 document_kind: "Հիմնական ակտ"

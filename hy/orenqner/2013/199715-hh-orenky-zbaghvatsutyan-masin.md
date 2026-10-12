@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԶԲԱՂՎԱԾՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-152-Ն"
 arlis_id: 199715
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

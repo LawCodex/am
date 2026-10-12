@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՖԻՆԱՆՍԱԿԱՆ ՀԱՄԱԿԱՐԳԻ ՀԱՇՏԱՐԱՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-123-Ն"
 arlis_id: 219092
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՏԵԽՆԻԿԱԿԱՆ ԿԱՆՈՆԱԿԱՐԳՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-19-Ն"
 arlis_id: 201279
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

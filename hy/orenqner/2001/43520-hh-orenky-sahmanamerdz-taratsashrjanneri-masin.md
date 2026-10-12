@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍԱՀՄԱՆԱՄԵՐՁ ՏԱՐԱԾԱՇՐՋԱՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-170"
 arlis_id: 43520
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

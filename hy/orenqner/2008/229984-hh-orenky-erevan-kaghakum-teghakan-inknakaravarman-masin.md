@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԵՐԵՎԱՆ ՔԱՂԱՔՈՒՄ ՏԵՂԱԿԱՆ ԻՆՔՆԱԿԱՌԱՎԱՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-5-Ն"
 arlis_id: 229984
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

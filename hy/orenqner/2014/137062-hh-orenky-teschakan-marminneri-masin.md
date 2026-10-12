@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՏԵՍՉԱԿԱՆ ՄԱՐՄԻՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-254-Ն"
 arlis_id: 137062
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՆԱԽԱԴՊՐՈՑԱԿԱՆ ԿՐԹՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-236-Ն"
 arlis_id: 225389
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

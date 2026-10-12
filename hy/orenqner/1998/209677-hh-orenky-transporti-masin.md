@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՏՐԱՆՍՊՈՐՏԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-201"
 arlis_id: 209677
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

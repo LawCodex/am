@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՔԱՂԱՔԱՑՈՒ ԱՆՁՆԱԳՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-287-Ն"
 arlis_id: 230445
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

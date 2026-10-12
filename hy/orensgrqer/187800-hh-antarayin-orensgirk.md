@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ԱՆՏԱՌԱՅԻՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-211-Ն"
 arlis_id: 187800
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

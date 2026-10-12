@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՈՐԾՈՒՆԵՈՒԹՅԱՆ ԻՐԱԿԱՆԱՑՄԱՆ ԾԱՆՈՒՑՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-120-Ն"
 arlis_id: 220585
 type: act
 document_kind: "Ինկորպորացիա"

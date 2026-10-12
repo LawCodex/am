@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՄԱՅՆՔԱՅԻՆ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-43-Ն"
 arlis_id: 229996
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

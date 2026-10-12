@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՅՈՒՂԱՏՆՏԵՍԱԿԱՆ ՏԵԽՆԻԿԱՅԻ ՇԱՀԱԳՈՐԾՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-114-Ն"
 arlis_id: 117783
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

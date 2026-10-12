@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՌԱԶՄԱՐԴՅՈՒՆԱԲԵՐԱԿԱՆ ՀԱՄԱԼԻՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-16-Ն"
 arlis_id: 230421
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

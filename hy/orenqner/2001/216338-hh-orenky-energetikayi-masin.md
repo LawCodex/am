@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԷՆԵՐԳԵՏԻԿԱՅԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-148"
 arlis_id: 216338
 type: act
 document_kind: "Ինկորպորացիա"

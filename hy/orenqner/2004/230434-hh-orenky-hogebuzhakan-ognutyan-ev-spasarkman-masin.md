@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՈԳԵԲՈՒԺԱԿԱՆ ՕԳՆՈՒԹՅԱՆ ԵՎ ՍՊԱՍԱՐԿՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-80-Ն"
 arlis_id: 230434
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

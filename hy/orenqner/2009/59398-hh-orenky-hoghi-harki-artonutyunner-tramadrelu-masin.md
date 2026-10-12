@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՈՂԻ ՀԱՐԿԻ ԱՐՏՈՆՈՒԹՅՈՒՆՆԵՐ ՏՐԱՄԱԴՐԵԼՈՒ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-79-Ն"
 arlis_id: 59398
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

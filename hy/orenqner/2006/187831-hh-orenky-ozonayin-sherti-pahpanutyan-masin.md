@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՕԶՈՆԱՅԻՆ ՇԵՐՏԻ ՊԱՀՊԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-218-Ն"
 arlis_id: 187831
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

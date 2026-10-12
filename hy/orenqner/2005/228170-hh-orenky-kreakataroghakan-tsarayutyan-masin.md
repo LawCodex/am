@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՔՐԵԱԿԱՏԱՐՈՂԱԿԱՆ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-160-Ն"
 arlis_id: 228170
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

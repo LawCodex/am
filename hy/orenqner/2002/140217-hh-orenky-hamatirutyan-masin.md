@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՄԱՏԻՐՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-333"
 arlis_id: 140217
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

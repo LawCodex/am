@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՇԽԱՐՀԱԳՐԱԿԱՆ ԱՆՎԱՆՈՒՄՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-21"
 arlis_id: 157935
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

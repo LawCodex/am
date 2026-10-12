@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՄԱՀԱՅԿԱԿԱՆ ԲԱՆԿԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-30-Ն"
 arlis_id: 69642
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

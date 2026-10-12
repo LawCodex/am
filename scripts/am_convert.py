@@ -197,6 +197,12 @@ CATS = {"Սահմանադրություն": ("sahmanadrutyun", "constitution"),
         "CONSTITUTION": ("constitution", "constitution"), "CODE": ("codes", "code"), "LAW": ("laws", "act")}
 
 
+# ARLIS lists these as "in force", but they are superseded texts or not Armenian law:
+EXCLUDE = {1: "1995 Constitution, original text (superseded by the 2005 and 2015 revisions)",
+           75780: "1995 Constitution as revised in 2005 (superseded by the 2015 revision, id 143723)",
+           77862: "Constitution of the World Health Organization (international treaty)"}
+
+
 def main():
     today = datetime.date.today().isoformat()
     counts = {}
@@ -205,6 +211,8 @@ def main():
         if not os.path.exists(ip):
             continue
         for it in json.load(open(ip)):
+            if lang == "hy" and it["id"] in EXCLUDE:
+                continue
             p = os.path.join(RAW, lang, f"{it['id']}.html")
             if not os.path.exists(p):
                 continue

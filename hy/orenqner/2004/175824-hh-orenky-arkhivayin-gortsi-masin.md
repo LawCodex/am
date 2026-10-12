@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՐԽԻՎԱՅԻՆ ԳՈՐԾԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-88-Ն"
 arlis_id: 175824
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

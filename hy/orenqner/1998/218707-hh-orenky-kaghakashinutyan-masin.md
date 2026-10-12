@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՔԱՂԱՔԱՇԻՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-217"
 arlis_id: 218707
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

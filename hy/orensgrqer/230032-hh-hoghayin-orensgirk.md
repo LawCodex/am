@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՀՈՂԱՅԻՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-185"
 arlis_id: 230032
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

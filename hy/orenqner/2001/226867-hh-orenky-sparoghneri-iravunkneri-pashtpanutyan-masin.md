@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍՊԱՌՈՂՆԵՐԻ ԻՐԱՎՈՒՆՔՆԵՐԻ ՊԱՇՏՊԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-197"
 arlis_id: 226867
 type: act
 document_kind: "Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԵՐԿՐԱՊԱՀ ԿԱՄԱՎՈՐԱԿԱՆԻ ԿԱՐԳԱՎԻՃԱԿԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-75-Ն"
 arlis_id: 190349
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՆԵՐՔԻՆ ՇՈՒԿԱՅԻ ՊԱՇՏՊԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-175"
 arlis_id: 110859
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՄԱՅՆՔԱՅԻՆ ԿԱՌԱՎԱՐՉԱԿԱՆ ՀԻՄՆԱՐԿՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-247"
 arlis_id: 230008
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

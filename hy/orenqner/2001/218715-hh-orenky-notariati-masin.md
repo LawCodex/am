@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՆՈՏԱՐԻԱՏԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-274"
 arlis_id: 218715
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

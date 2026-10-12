@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱԶԳԱՅԻՆ ԱՆՎՏԱՆԳՈՒԹՅԱՆ ՄԱՐՄԻՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-294"
 arlis_id: 219172
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

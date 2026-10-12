@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՊԱՀՈՎՎԱԾ ՀԻՊՈՏԵԿԱՅԻՆ ՊԱՐՏԱՏՈՄՍԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-97-Ն"
 arlis_id: 224794
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

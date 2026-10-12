@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՈՍՏԻԿԱՆՈՒԹՅՈՒՆՈՒՄ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-401-Ն"
 arlis_id: 230024
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

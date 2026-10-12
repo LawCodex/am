@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՐԴՅՈՒՆԱԲԵՐԱԿԱՆ ՔԱՂԱՔԱԿԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-184-Ն"
 arlis_id: 176430
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

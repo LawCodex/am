@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՏՈՀՄԱՅԻՆ ԱՆԱՍՆԱԲՈՒԾՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-122-Ն"
 arlis_id: 108865
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

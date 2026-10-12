@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՆԱՀԱՏՄԱՆ ԳՈՐԾՈՒՆԵՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-189-Ն"
 arlis_id: 220992
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

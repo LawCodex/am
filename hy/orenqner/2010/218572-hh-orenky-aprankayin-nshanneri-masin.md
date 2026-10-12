@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՊՐԱՆՔԱՅԻՆ ՆՇԱՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-59-Ն"
 arlis_id: 218572
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

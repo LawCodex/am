@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԵՏԱԿԱՆ ԳՈՒՅՔԻ ԿԱՌԱՎԱՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-158-Ն"
 arlis_id: 206625
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՎԱՐՉԱԿԱՆ ԴԱՏԱՎԱՐՈՒԹՅԱՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-139-Ն"
 arlis_id: 229991
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

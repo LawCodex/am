@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՓԱՍՏԱԹՂԹԵՐԻ ՀԱՏՈՒԿ ԱՌԱՔՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-171-Ն"
 arlis_id: 178981
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՏՈՆԵՐԻ ԵՎ ՀԻՇԱՏԱԿԻ ՕՐԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-200"
 arlis_id: 228539
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

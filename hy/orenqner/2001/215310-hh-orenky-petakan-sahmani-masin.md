@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԵՏԱԿԱՆ ՍԱՀՄԱՆԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-265"
 arlis_id: 215310
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

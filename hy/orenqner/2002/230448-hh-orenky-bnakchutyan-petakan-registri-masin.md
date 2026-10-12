@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲՆԱԿՉՈՒԹՅԱՆ ՊԵՏԱԿԱՆ ՌԵԳԻՍՏՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-419-Ն"
 arlis_id: 230448
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

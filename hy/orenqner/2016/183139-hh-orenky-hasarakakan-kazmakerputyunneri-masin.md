@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՍԱՐԱԿԱԿԱՆ ԿԱԶՄԱԿԵՐՊՈՒԹՅՈՒՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-22-Ն"
 arlis_id: 183139
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

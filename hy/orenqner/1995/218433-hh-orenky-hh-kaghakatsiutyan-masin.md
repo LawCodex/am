@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՔԱՂԱՔԱՑԻՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-16"
 arlis_id: 218433
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

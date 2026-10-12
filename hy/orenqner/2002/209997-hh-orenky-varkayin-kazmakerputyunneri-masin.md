@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՎԱՐԿԱՅԻՆ ԿԱԶՄԱԿԵՐՊՈՒԹՅՈՒՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-359-Ն"
 arlis_id: 209997
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

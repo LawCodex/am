@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՄԵՂՎԱԲՈՒԾՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-71-Ն"
 arlis_id: 50686
 type: act
 document_kind: "Հիմնական ակտ"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՏՐԱՆՍՊՈՐՏԱՅԻՆ ՏԵՍՉՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-234-Ն"
 arlis_id: 29706
 type: act
 document_kind: "Հիմնական ակտ"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՆՐԱԿՐԹՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-160-Ն"
 arlis_id: 225395
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

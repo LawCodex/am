@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՔՐԵԱԿԱՆ ԴԱՏԱՎԱՐՈՒԹՅԱՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-306-Ն"
 arlis_id: 230458
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

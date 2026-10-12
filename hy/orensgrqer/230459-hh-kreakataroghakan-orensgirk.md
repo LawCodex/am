@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՔՐԵԱԿԱՏԱՐՈՂԱԿԱՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-246-Ն"
 arlis_id: 230459
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

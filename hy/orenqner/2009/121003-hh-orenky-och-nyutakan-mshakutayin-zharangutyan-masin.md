@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՈՉ ՆՅՈՒԹԱԿԱՆ ՄՇԱԿՈՒԹԱՅԻՆ ԺԱՌԱՆԳՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-187-Ն"
 arlis_id: 121003
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

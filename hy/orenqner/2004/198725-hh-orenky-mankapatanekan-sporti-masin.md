@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՄԱՆԿԱՊԱՏԱՆԵԿԱՆ ՍՊՈՐՏԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-109-Ն"
 arlis_id: 198725
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

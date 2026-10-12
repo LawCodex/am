@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՈՐՍԻ ԵՎ ՈՐՍՈՐԴԱԿԱՆ ՏՆՏԵՍՈՒԹՅԱՆ ՎԱՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-176-Ն"
 arlis_id: 189473
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

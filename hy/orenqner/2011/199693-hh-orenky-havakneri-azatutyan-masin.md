@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԱՎԱՔՆԵՐԻ ԱԶԱՏՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-72-Ն"
 arlis_id: 199693
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

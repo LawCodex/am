@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՅՈՒՂԱՏՆՏԵՍԱԿԱՆ ՀՈՂԵՐԻ ՄԵԼԻՈՐԱՑԻԱՅԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-121-Ն"
 arlis_id: 1811
 type: act
 document_kind: "Հիմնական ակտ"

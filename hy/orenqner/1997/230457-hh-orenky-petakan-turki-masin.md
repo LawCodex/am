@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԵՏԱԿԱՆ ՏՈՒՐՔԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-186"
 arlis_id: 230457
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

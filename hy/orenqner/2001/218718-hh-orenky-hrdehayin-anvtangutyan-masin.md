@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՐԴԵՀԱՅԻՆ ԱՆՎՏԱՆԳՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-176"
 arlis_id: 218718
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

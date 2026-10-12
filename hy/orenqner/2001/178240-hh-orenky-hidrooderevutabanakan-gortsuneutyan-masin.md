@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀԻԴՐՈՕԴԵՐԵՎՈՒԹԱԲԱՆԱԿԱՆ ԳՈՐԾՈՒՆԵՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-145"
 arlis_id: 178240
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

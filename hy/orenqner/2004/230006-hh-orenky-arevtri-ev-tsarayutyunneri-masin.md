@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՌԵՎՏՐԻ ԵՎ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-134-Ն"
 arlis_id: 230006
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

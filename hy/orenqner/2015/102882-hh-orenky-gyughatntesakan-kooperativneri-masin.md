@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՅՈՒՂԱՏՆՏԵՍԱԿԱՆ ԿՈՈՊԵՐԱՏԻՎՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-190-Ն"
 arlis_id: 102882
 type: act
 document_kind: "Հիմնական ակտ"

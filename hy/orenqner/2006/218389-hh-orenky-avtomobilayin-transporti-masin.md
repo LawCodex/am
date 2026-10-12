@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՎՏՈՄՈԲԻԼԱՅԻՆ ՏՐԱՆՍՊՈՐՏԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-233-Ն"
 arlis_id: 218389
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

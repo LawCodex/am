@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՎԱՐՉԱՏԱՐԱԾՔԱՅԻՆ ԲԱԺԱՆՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-18"
 arlis_id: 231073
 type: act
 document_kind: "Ինկորպորացիա"

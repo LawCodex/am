@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԿԵՆԴԱՆԱԿԱՆ ԱՇԽԱՐՀԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-52"
 arlis_id: 176441
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

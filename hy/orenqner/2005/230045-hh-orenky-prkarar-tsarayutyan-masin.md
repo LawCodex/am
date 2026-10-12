@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՓՐԿԱՐԱՐ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-171-Ն"
 arlis_id: 230045
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

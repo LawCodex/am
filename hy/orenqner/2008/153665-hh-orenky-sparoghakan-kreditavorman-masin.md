@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍՊԱՌՈՂԱԿԱՆ ԿՐԵԴԻՏԱՎՈՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-122-Ն"
 arlis_id: 153665
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

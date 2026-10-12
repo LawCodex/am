@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՅՈՒՊԱՏՈՍԱԿԱՆ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-61"
 arlis_id: 230453
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

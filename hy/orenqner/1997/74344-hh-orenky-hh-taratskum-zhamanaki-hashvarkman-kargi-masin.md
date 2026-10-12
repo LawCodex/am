@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ՏԱՐԱԾՔՈՒՄ ԺԱՄԱՆԱԿԻ ՀԱՇՎԱՐԿՄԱՆ ԿԱՐԳԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-158"
 arlis_id: 74344
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

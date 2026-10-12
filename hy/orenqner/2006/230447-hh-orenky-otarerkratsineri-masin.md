@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՕՏԱՐԵՐԿՐԱՑԻՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-47-Ն"
 arlis_id: 230447
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

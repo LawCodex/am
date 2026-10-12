@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԿԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-141-Ն"
 arlis_id: 192565
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

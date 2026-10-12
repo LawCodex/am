@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՐԱԴԱՐԱՆՆԵՐԻ ԵՎ ԳՐԱԴԱՐԱՆԱՅԻՆ ԳՈՐԾԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-90-Ն"
 arlis_id: 198732
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

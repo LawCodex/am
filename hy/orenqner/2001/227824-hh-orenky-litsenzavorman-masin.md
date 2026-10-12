@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԼԻՑԵՆԶԱՎՈՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-193"
 arlis_id: 227824
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

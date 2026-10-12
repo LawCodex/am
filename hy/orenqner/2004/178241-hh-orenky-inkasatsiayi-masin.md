@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԻՆԿԱՍԱՑԻԱՅԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-111-Ն"
 arlis_id: 178241
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

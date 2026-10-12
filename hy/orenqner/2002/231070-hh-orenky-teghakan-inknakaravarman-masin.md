@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՏԵՂԱԿԱՆ ԻՆՔՆԱԿԱՌԱՎԱՐՄԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-337"
 arlis_id: 231070
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

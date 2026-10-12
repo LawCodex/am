@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՎԻՃԱԿԱԽԱՂԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-3-Ն"
 arlis_id: 227652
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

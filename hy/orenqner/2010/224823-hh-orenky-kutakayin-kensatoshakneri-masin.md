@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԿՈՒՏԱԿԱՅԻՆ ԿԵՆՍԱԹՈՇԱԿՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-244-Ն"
 arlis_id: 224823
 type: act
 document_kind: "Ինկորպորացիա"

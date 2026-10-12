@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍԵՎԱՆԱ ԼՃԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-190"
 arlis_id: 200928
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

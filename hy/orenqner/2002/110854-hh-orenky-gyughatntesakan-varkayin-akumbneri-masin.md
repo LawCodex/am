@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳՅՈՒՂԱՏՆՏԵՍԱԿԱՆ ՎԱՐԿԱՅԻՆ ԱԿՈՒՄԲՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-332"
 arlis_id: 110854
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍՈՑԻԱԼԱԿԱՆ ԱՋԱԿՑՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-231-Ն"
 arlis_id: 228556
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

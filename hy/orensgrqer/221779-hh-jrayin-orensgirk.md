@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՋՐԱՅԻՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-373-Ն"
 arlis_id: 221779
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

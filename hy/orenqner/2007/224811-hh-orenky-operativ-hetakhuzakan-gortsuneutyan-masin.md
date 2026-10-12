@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՕՊԵՐԱՏԻՎ-ՀԵՏԱԽՈՒԶԱԿԱՆ ԳՈՐԾՈՒՆԵՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-223-Ն"
 arlis_id: 224811
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՀԱԲԵԿՉՈՒԹՅԱՆ ԴԵՄ ՊԱՅՔԱՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-79-Ն"
 arlis_id: 138936
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՏԵՂԵԿԱՏՎՈՒԹՅԱՆ ԱԶԱՏՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-11-Ն"
 arlis_id: 218688
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

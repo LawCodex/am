@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՆԵՐՔԻՆ ԱՈՒԴԻՏԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-17-Ն"
 arlis_id: 193792
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

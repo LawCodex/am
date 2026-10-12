@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՄԱՔՍԱՅԻՆ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-402-Ն"
 arlis_id: 229135
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

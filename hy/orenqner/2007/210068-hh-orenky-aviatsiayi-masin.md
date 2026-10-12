@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՎԻԱՑԻԱՅԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-81-Ն"
 arlis_id: 210068
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

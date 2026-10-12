@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՊԱՀՈՎԱԳՐՈՒԹՅԱՆ ԵՎ ԱՊԱՀՈՎԱԳՐԱԿԱՆ ԳՈՐԾՈՒՆԵՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-177-Ն"
 arlis_id: 224838
 type: act
 document_kind: "Ինկորպորացիա"

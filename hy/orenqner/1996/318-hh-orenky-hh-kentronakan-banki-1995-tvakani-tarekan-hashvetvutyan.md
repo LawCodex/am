@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ԿԵՆՏՐՈՆԱԿԱՆ ԲԱՆԿԻ 1995 ԹՎԱԿԱՆԻ ՏԱՐԵԿԱՆ ՀԱՇՎԵՏՎՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-72"
 arlis_id: 318
 type: act
 document_kind: "Հիմնական ակտ"

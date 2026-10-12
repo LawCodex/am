@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲԱՆԿԵՐԻ ԵՎ ԲԱՆԿԱՅԻՆ ԳՈՐԾՈՒՆԵՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-68"
 arlis_id: 224817
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

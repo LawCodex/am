@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՍԱՀՄԱՆԱՊԱՀ ԶՈՐՔԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-266"
 arlis_id: 121813
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

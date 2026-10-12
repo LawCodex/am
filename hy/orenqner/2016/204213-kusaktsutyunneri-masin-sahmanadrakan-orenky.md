@@ -1,6 +1,6 @@
 ---
 title: "ԿՈՒՍԱԿՑՈՒԹՅՈՒՆՆԵՐԻ ՄԱՍԻՆ ՍԱՀՄԱՆԱԴՐԱԿԱՆ ՕՐԵՆՔԸ"
-identifier: ""
+identifier: "ՀՕ-224-Ն"
 arlis_id: 204213
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

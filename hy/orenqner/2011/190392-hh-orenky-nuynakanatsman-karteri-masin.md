@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՆՈՒՅՆԱԿԱՆԱՑՄԱՆ ՔԱՐՏԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-286-Ն"
 arlis_id: 190392
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՄԹՆՈԼՈՐՏԱՅԻՆ ՕԴԻ ՊԱՀՊԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-121"
 arlis_id: 220906
 type: act
 document_kind: "Ինկորպորացիա"

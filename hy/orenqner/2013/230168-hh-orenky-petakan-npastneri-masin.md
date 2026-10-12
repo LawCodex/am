@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԵՏԱԿԱՆ ՆՊԱՍՏՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-154-Ն"
 arlis_id: 230168
 type: act
 document_kind: "Ինկորպորացիա"

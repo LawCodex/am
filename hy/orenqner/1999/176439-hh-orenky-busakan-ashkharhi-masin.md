@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԲՈՒՍԱԿԱՆ ԱՇԽԱՐՀԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-22"
 arlis_id: 176439
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

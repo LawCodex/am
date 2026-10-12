@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՊԱՇՏՊԱՆՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-196-Ն"
 arlis_id: 225572
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

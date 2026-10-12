@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՄԱՍՆԱՎՈՐ ՊԱՀՆՈՐԴԱԿԱՆ ԳՈՐԾՈՒՆԵՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-6-Ն"
 arlis_id: 206811
 type: act
 document_kind: "Ինկորպորացիա"

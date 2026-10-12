@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ՀՀ ԶԻՆՎԱԾ ՈՒԺԵՐԻ ԿԱՐԳԱՊԱՀԱԿԱՆ ԿԱՆՈՆԱԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-91-Ն"
 arlis_id: 200323
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՅԼԸՆՏՐԱՆՔԱՅԻՆ ԾԱՌԱՅՈՒԹՅԱՆ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-6-Ն"
 arlis_id: 230429
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

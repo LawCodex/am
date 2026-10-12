@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԴԵՂԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-86-Ն"
 arlis_id: 228239
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

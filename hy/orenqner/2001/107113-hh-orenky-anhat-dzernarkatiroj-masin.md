@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՆՀԱՏ ՁԵՌՆԱՐԿԱՏԻՐՈՋ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-167"
 arlis_id: 107113
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

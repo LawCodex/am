@@ -1,6 +1,6 @@
 ---
 title: "ՄԱՐԴՈՒ ԻՐԱՎՈՒՆՔՆԵՐԻ ՊԱՇՏՊԱՆԻ ՄԱՍԻՆ ՍԱՀՄԱՆԱԴՐԱԿԱՆ ՕՐԵՆՔԸ"
-identifier: ""
+identifier: "ՀՕ-1-Ն"
 arlis_id: 216711
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

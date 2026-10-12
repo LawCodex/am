@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԱՇԽԱՐՀԱԳՐԱԿԱՆ ՆՇՈՒՄՆԵՐԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-60-Ն"
 arlis_id: 218559
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

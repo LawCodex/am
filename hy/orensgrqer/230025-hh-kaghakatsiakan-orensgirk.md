@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՔԱՂԱՔԱՑԻԱԿԱՆ ՕՐԵՆՍԳԻՐՔ"
-identifier: ""
+identifier: "ՀՕ-239"
 arlis_id: 230025
 type: code
 document_kind: "Պաշտոնական Ինկորպորացիա"

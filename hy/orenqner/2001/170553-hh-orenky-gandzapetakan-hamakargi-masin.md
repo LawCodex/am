@@ -1,6 +1,6 @@
 ---
 title: "ՀՀ ՕՐԵՆՔԸ ԳԱՆՁԱՊԵՏԱԿԱՆ ՀԱՄԱԿԱՐԳԻ ՄԱՍԻՆ"
-identifier: ""
+identifier: "ՀՕ-211"
 arlis_id: 170553
 type: act
 document_kind: "Պաշտոնական Ինկորպորացիա"

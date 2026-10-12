@@ -59,7 +59,7 @@ Retrieved: **2026-10-12**.
   (`/hy/acts/<id>/latest`). arlis.am has no robots.txt and its pages state no restriction on
   automated access; requests were sequential, ≥ 1.5 s apart, with User-Agent
   `LawCodex/1.0 (+https://github.com/LawCodex)`.
-- Copyright: under the Law of the Republic of Armenia on Copyright and Related Rights (art. 4),
+- Copyright: under the Law of the Republic of Armenia on Copyright and Related Rights,
   official documents — laws and other normative acts and their official translations — are
   not objects of copyright.
 
